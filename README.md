@@ -59,7 +59,7 @@ Your image2 site won't require a background image; just try to match the color a
 
 Match the fonts as best you can. They don't need to be absolutely identical. You can use any of the web-safe fonts listed at W3Schools, or for more options try using a Google Font, as shown in these examples: http://www.webdesigndev.com/16-gorgeous-web-safe-fonts-to-use-with-css/ More Google fonts are here: https://fonts.google.com/; the article in the first link shows you how to use them in a project. We'll do more with Google Fonts later on; they're easy to use, so don't be afraid to give it a try!
 
-Part 3: SUBMIT YOUR FILES
+# Part 3: SUBMIT YOUR FILES
 When you're done, put the files you create into a folder called YourlastnameLab2, compress/zip the folder, and attach it here by the deadline.
 
 So YourlastnameLab2 should contain five files in total, plus the background image file you used.
